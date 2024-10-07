@@ -51,13 +51,13 @@ export const project = [
       demo: "https://foanztopkw.com/",
       repo: "https://foanztopkw.com/",
     },
-    {
-      name: "Palestine",
-      details:
-        "We need to support our brothers in Palestine. By introducing their case against the Zionist occupati...",
-      skills: "HTML - CSS - Vanilla JS ",
-      demo: "https://mohammedrady59.github.io/Palestine/",
-      repo: "https://github.com/MohammedRady59/Palestine",
-    },
+    // {
+    //   name: "Palestine",
+    //   details:
+    //     "We need to support our brothers in Palestine. By introducing their case against the Zionist occupati...",
+    //   skills: "HTML - CSS - Vanilla JS ",
+    //   demo: "https://mohammedrady59.github.io/Palestine/",
+    //   repo: "https://github.com/MohammedRady59/Palestine",
+    // },
   ];
   

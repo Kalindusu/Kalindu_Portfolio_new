@@ -56,7 +56,7 @@ function Model() {
                   <SquareChevronDown className="text-red-600" />
                   <a
                     target="_blank"
-                    className="text-[#9ca3af] font-bold hover:text-customBlue duration-300"
+                    className=" hover:text-customBlue duration-300"
                     href="https://www.coursera.org/account/accomplishments/verify/M6B3QP2677DK"
                   >
                     React Basics By Meta
@@ -66,7 +66,7 @@ function Model() {
                   <SquareChevronDown className="text-red-600" />
                   <a
                     target="_blank"
-                    className="text-[#9ca3af] font-bold hover:text-customBlue duration-300"
+                    className=" hover:text-customBlue duration-300"
                     href="https://www.coursera.org/account/accomplishments/verify/2BZNHYKZ8AMJ"
                   >
                     Advanced React By Meta
@@ -76,7 +76,7 @@ function Model() {
                   <SquareChevronDown className="text-red-600" />
                   <a
                     target="_blank"
-                    className="text-[#9ca3af] font-bold hover:text-customBlue duration-300"
+                    className="  hover:text-customBlue duration-300"
                     href="https://www.coursera.org/account/accomplishments/verify/HKLFZJXUX7MH"
                   >
                    HTML, CSS, and Javascript for Web Developers By Johns Hopkins University
@@ -87,7 +87,7 @@ function Model() {
                   <SquareChevronDown className="text-red-600" />
                   <a
                     target="_blank"
-                    className="text-[#9ca3af] font-bold hover:text-customBlue duration-300"
+                    className=" hover:text-customBlue duration-300"
                     href="https://open.uom.lk/lms/mod/customcert/verify_certificate.php"
                   >
                     Web Design for Beginners By University of Moratuwa
@@ -97,7 +97,7 @@ function Model() {
                   <SquareChevronDown className="text-red-600" />
                   <a
                     target="_blank"
-                    className="text-[#9ca3af] font-bold hover:text-customBlue duration-300"
+                    className=" hover:text-customBlue duration-300"
                     href="https://open.uom.lk/lms/mod/customcert/verify_certificate.php"
                   >
                     Front-End Web Development By University of Moratuwa
@@ -108,7 +108,7 @@ function Model() {
                   <SquareChevronDown className="text-red-600" />
                   <a
                     target="_blank"
-                    className="text-[#9ca3af] font-bold hover:text-customBlue duration-300"
+                    className=" hover:text-customBlue duration-300"
                     href="https://badgr.com/public/assertions/3FBUNBOcT--ua5-foB-Esw?identity__email=sudarakakalindu20@gmail.com"
                   >
                     Postman API fundamentals Student Expert By Postmana
