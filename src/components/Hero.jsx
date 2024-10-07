@@ -2,8 +2,8 @@ import React, { useEffect } from "react";
 import { HERO_CONTENT } from "../constants";
 import ProfilePic from "../assets/KalinduProfile1.png";
 import { motion } from "framer-motion";
-import Typed from "typed.js"; // import Typed.js
-import An from "./An";
+import Typed from "typed.js"; 
+
 
 const Hero = () => {
   useEffect(() => {
@@ -36,9 +36,9 @@ const Hero = () => {
       <div className="pl-10 border-b border-neutral-500 pb-4 lg:mb-35 flex flex-wrap  ">
           <div className="w-full lg:w-2/3">
             <div className="flex flex-col items-center lg:items-start">
-              <p className="text-xl text-customBlue py-4">Hi, my name is</p>
-              <h1 className="name font-lota  text-2xl md:text-4xl lg:text-7xl" data-aos="fade-right">
-                Kalindu Sudaraka
+              <p className="text-xl md:text-2xl lg:text-4xl text-customBlue py-4">Hi, my name is</p>
+              <h1 className="name font-lota  text-3xl md:text-5xl lg:text-8xl" data-aos="fade-right">
+                KalinduSudaraka
               </h1>
               <h1 className="text-white text-xl md:text-3xl py-4 font-bold">
                 I AM A <span className="moveLetter text-customBlue"></span>

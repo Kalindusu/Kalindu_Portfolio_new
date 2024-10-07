@@ -25,7 +25,7 @@
   position: relative;
 }
 .name::before {
-  content: "Kalindu Sudaraka";
+  content: "KalinduSudaraka";
   position: absolute;
   width: 0;
   height: 100%;
