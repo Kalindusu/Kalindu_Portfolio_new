@@ -34,13 +34,12 @@ const Projects = () => {
     <div className="border-b border-neutral-500 pb-1">
       <div className="bg-head">
         <div className="container">
-          {/* Header motion with scroll trigger */}
           <motion.h2
-            whileInView={{ opacity: 1, y: 0 }} // Trigger when in view
+            whileInView={{ opacity: 1, y: 0 }} 
             initial={{ opacity: 0, y: 100 }}
             transition={{ duration: 1.5 }}
             className="my-20 text-center text-4xl font-bold"
-            viewport={{ once: false, amount: 0.2 }} // Trigger the animation more than once on scroll
+            viewport={{ once: false, amount: 0.2 }} 
           >
             Projects
           </motion.h2>
@@ -52,23 +51,23 @@ const Projects = () => {
                 Explore how I consistently delivered maximum results in my previous projects.
               </p>
 
-              {/* Container for the project cards */}
+             
               <motion.div
                 className="grid gap-4 my-12 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 font-nav"
                 initial="hidden"
                 whileInView="visible"
-                viewport={{ once: false, amount: 0.2 }} // Re-trigger animations when scrolling up and down
+                viewport={{ once: false, amount: 0.2 }} 
                 variants={containerVariants}
               >
                 {project.map((el, idx) => (
-                  // Motion for each project card
+                  
                   <motion.div
                     className="p-4 border-2 rounded-md border-customBlue flex flex-col gap-4 overflow-hidden"
                     key={idx}
                     variants={itemVariants}
-                    whileInView="visible" // Trigger animation on scroll
+                    whileInView="visible" 
                     initial="hidden"
-                    viewport={{ once: false, amount: 0.2 }} // Ensures re-triggering when scrolling
+                    viewport={{ once: false, amount: 0.2 }} 
                   >
                     <div className="flex justify-between">
                       <p className="text-customBlue">{el.name}</p>
@@ -80,13 +79,13 @@ const Projects = () => {
                         >
                           <Github />
                         </a>
-                        <a
+                        {/* <a
                           href={el.demo}
                           target="_blank"
                           className="block hover:text-customBlue"
                         >
                           <SquareArrowOutUpRight />
-                        </a>
+                        </a> */}
                       </div>
                     </div>
                     <div className="relative group">

@@ -51,12 +51,18 @@ const Hero = () => {
               >
                 {HERO_CONTENT}
               </motion.p>
+              <a
+        href="https://drive.google.com/uc?export=download&id=1DgM7PKT7NuDyaWsXUYqTFPxO-7RskW4p"
+         download
+          className="w-fit"
+        >
               <motion.button
             className="my-6 p-4 font-bold cv z-10  border-2  cursor-fancy rounded-[0.3rem] transition-all duration-700 ease-out  block relative border-customBlue"
             type="button"
           >
             View My CV Here!
           </motion.button>
+          </a>
             </div>
           </div>
           <div className="w-full lg:w-1/3 flex flex-wrap items-center justify-center lg:justify-between">
@@ -65,7 +71,7 @@ const Hero = () => {
                 initial={{ x: 100, opacity: 0 }}
                 animate={{ x: 0, opacity: 1 }}
                 transition={{ duration: 1, delay: 1.2 }}
-                className="rounded-3xl h-96 md:h-[32rem] lg:h-[36rem]  w-[32rem] md:w-[38rem] lg:w-[46rem] shadow-xl"
+                className="rounded-3xl h-90 md:h-[3orem] lg:h-[32rem]  w-[32rem] md:w-[38rem] lg:w-[46rem] shadow-xl"
                 src={ProfilePic}
                 alt="profilepic"
               />
