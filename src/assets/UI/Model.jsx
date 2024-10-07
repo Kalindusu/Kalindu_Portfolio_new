@@ -15,6 +15,9 @@ function Model() {
           <Tab className=" data-[selected]:bg-[#83dbff40]  data-[selected]:outline-none p-3 border rounded-md border-customBlue">
             Experiences
           </Tab>
+          <Tab className=" data-[selected]:bg-[#83dbff40]  data-[selected]:outline-none p-3 border rounded-md border-customBlue">
+            Soft Skills
+          </Tab>
         </TabList>
         <TabPanels>
           <TabPanel>
@@ -134,6 +137,37 @@ function Model() {
                   As a bank trainer at People's Bank, Walasmulla, I honed my soft skills while delivering effective training sessions and enhancing employee performance. This experience allowed me to develop strong communication, leadership, and problem-solving abilities, which have been invaluable in my professional growth.
                   </p>
                 </div>
+              </div>
+            </div>
+          </TabPanel>
+          <TabPanel>
+            <div data-aos="fade-right">
+              <h3 className="text-2xl pb-4">Soft Skills</h3>
+              <div className="border-l px-2  ">
+                <p className="flex gap-2 py-2">
+                  <SquareChevronDown className="text-red-600" />
+                  Communication
+                </p>
+                <p className="flex gap-2 py-2">
+                  <SquareChevronDown className="text-red-600" />
+                  Leadership
+                </p>
+                <p className="flex gap-2 py-2">
+                  <SquareChevronDown className="text-red-600" />
+                  Project Management
+                </p>
+                <p className="flex gap-2 py-2">
+                  <SquareChevronDown className="text-red-600" />
+                  Team Collaboration
+                </p>
+                <p className="flex gap-2 py-2">
+                  <SquareChevronDown className="text-red-600" />
+                  Critical Thinking 
+                </p>
+                <p className="flex gap-2 py-2">
+                  <SquareChevronDown className="text-red-600" />
+                  Self Learning
+                </p>
               </div>
             </div>
           </TabPanel>
