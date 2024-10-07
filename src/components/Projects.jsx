@@ -22,6 +22,8 @@ const Projects = () => {
 
     return (
         <div className="border-b border-neutral-500 pb-1">
+            <div className="bg-head ">
+            <div className="container   ">
             <motion.h2 
                 whileInView={{ opacity: 1, y: 0 }}
                 initial={{ opacity: 0, y: 100 }}
@@ -30,8 +32,8 @@ const Projects = () => {
             >
                 Projects
             </motion.h2>
-            <div className="container   ">
-        <div className="  text-white md:py-10 py-5  font-nav ">
+           
+        <div className="  text-white md:py-10 py-5   ">
           <div className="py-2">
             <h2 className="text-2xl text-center text-white">
               Past Project Experience
@@ -40,7 +42,7 @@ const Projects = () => {
               Explore how I consistently delivered maximum results in my
               previous projects.
             </p>
-            <div className="grid gap-4 my-12 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
+            <div className="grid gap-4 my-12 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 font-nav">
               {project.map((el, idx) => (
                 <div
                   className="p-4 border-2 rounded-md border-customBlue flex flex-col gap-4 overflow-hidden"
@@ -98,6 +100,7 @@ const Projects = () => {
           </div>
         </div>
       </div>
+        </div>
         </div>
     );
 };

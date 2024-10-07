@@ -28,7 +28,7 @@ function Model() {
                 </p>
                 <div className="px-8">
                   <p className="">Sabaragamuwa University of Sri Lanka</p>
-                  <p className="py-2  text-[#9ca3af]">
+                  <p className="py-2  text-[#9ca3af] font-bold">
                   I am currently a 3rd-year undergraduate at the Faculty of Computing, Sabaragamuwa University of Sri Lanka. With a strong foundation in computer science, I am dedicated to expanding my knowledge and skills in the field, preparing for the rapidly evolving technological landscape.
                   </p>
                 </div>
@@ -41,7 +41,7 @@ function Model() {
                 </p>
                 <div className="px-8">
                   <p className="">Rajapaksha Central college Weerakatiya</p>
-                  <p className="py-2  text-[#9ca3af]">
+                  <p className="py-2  text-[#9ca3af] font-bold">
                   I pursued my Advanced Level studies in the Physical Science stream, driven by a deep interest in mathematics and problem-solving. I successfully completed the exams with 3B passes and a C for General English, which further motivated me to explore technology and its growing impact on various industries.
                   </p>
                 </div>
@@ -56,7 +56,7 @@ function Model() {
                   <SquareChevronDown className="text-red-600" />
                   <a
                     target="_blank"
-                    className="text-[#9ca3af] hover:text-customBlue duration-300"
+                    className="text-[#9ca3af] font-bold hover:text-customBlue duration-300"
                     href="https://www.coursera.org/account/accomplishments/verify/M6B3QP2677DK"
                   >
                     React Basics By Meta
@@ -66,7 +66,7 @@ function Model() {
                   <SquareChevronDown className="text-red-600" />
                   <a
                     target="_blank"
-                    className="text-[#9ca3af] hover:text-customBlue duration-300"
+                    className="text-[#9ca3af] font-bold hover:text-customBlue duration-300"
                     href="https://www.coursera.org/account/accomplishments/verify/2BZNHYKZ8AMJ"
                   >
                     Advanced React By Meta
@@ -76,7 +76,7 @@ function Model() {
                   <SquareChevronDown className="text-red-600" />
                   <a
                     target="_blank"
-                    className="text-[#9ca3af] hover:text-customBlue duration-300"
+                    className="text-[#9ca3af] font-bold hover:text-customBlue duration-300"
                     href="https://www.coursera.org/account/accomplishments/verify/HKLFZJXUX7MH"
                   >
                    HTML, CSS, and Javascript for Web Developers By Johns Hopkins University
@@ -87,7 +87,7 @@ function Model() {
                   <SquareChevronDown className="text-red-600" />
                   <a
                     target="_blank"
-                    className="text-[#9ca3af] hover:text-customBlue duration-300"
+                    className="text-[#9ca3af] font-bold hover:text-customBlue duration-300"
                     href="https://open.uom.lk/lms/mod/customcert/verify_certificate.php"
                   >
                     Web Design for Beginners By University of Moratuwa
@@ -97,7 +97,7 @@ function Model() {
                   <SquareChevronDown className="text-red-600" />
                   <a
                     target="_blank"
-                    className="text-[#9ca3af] hover:text-customBlue duration-300"
+                    className="text-[#9ca3af] font-bold hover:text-customBlue duration-300"
                     href="https://open.uom.lk/lms/mod/customcert/verify_certificate.php"
                   >
                     Front-End Web Development By University of Moratuwa
@@ -108,7 +108,7 @@ function Model() {
                   <SquareChevronDown className="text-red-600" />
                   <a
                     target="_blank"
-                    className="text-[#9ca3af] hover:text-customBlue duration-300"
+                    className="text-[#9ca3af] font-bold hover:text-customBlue duration-300"
                     href="https://badgr.com/public/assertions/3FBUNBOcT--ua5-foB-Esw?identity__email=sudarakakalindu20@gmail.com"
                   >
                     Postman API fundamentals Student Expert By Postmana
@@ -130,7 +130,7 @@ function Model() {
                 </p>
                 <div className="px-8">
                   <p className="">Trainee Bank Assistant</p>
-                  <p className="py-2 text-[#9ca3af]">
+                  <p className="py-2 text-[#9ca3af] font-bold">
                   As a bank trainer at People's Bank, Walasmulla, I honed my soft skills while delivering effective training sessions and enhancing employee performance. This experience allowed me to develop strong communication, leadership, and problem-solving abilities, which have been invaluable in my professional growth.
                   </p>
                 </div>

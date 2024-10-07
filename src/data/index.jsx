@@ -59,37 +59,5 @@ export const project = [
       demo: "https://mohammedrady59.github.io/Palestine/",
       repo: "https://github.com/MohammedRady59/Palestine",
     },
-    {
-      name: "Game-Over",
-      details:
-        "This project is a website for games. Important features include guard authentication and security, dark and light modes, and the ability to construct the home, information, login, and register pages utilising the backend via Apis.",
-      skills: "HTML - CSS - Vanilla JS - Bootstrap - API ",
-      demo: "https://mohammedrady59.github.io/Game-Over/",
-      repo: "https://github.com/MohammedRady59/Game-Over",
-    },
-    {
-      name: "Yummy",
-      details:
-        "This project is a website for a restaurant that makes and provides quick food. Search by meal name, search by meal initial letter, meal categories, meal displays for each region, and ingredient displays for each meal are some of the important features. This project was created using a single page and was built using Apis on the backend.",
-      skills: "HTML - TailwindCSS - Vanilla JS - JQuery - API ",
-      demo: "https://mohammedrady59.github.io/Yummy-App/",
-      repo: "https://github.com/MohammedRady59/Yummy-App",
-    },
-    {
-      name: "Footcap",
-      details:
-        "This project is a website for a restaurant that makes and provides quick food. Search by meal name, search by meal initial letter, meal categories, meal displays for each region, and ingredient displays for each meal are some of the important features. This project was created using a single page and was built using Apis on the backend.",
-      skills: "HTML - CSS - Vanilla JS - Bootstrap ",
-      demo: "https://mohammedrady59.github.io/FootCap/",
-      repo: "https://github.com/MohammedRady59/FootCap",
-    },
-    {
-      name: "Customer Transactions",
-      details:
-        "This project appears to be a dashboard; it has a table that shows client transactions and a chart that illustrates the percentage of each transaction. Search by client name and search by transaction amount are two important functionalities.",
-      skills: "HTML - CSS - Vanilla JS - Bootstrap - ChartJs",
-      demo: "https://mohammedrady59.github.io/Customer-Service/",
-      repo: "https://github.com/MohammedRady59/Customer-Service",
-    },
   ];
   
