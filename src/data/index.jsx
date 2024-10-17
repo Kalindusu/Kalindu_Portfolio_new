@@ -38,25 +38,17 @@ export const project = [
   {
     name: "CeylonTours E-Booking Mobile Application",
     details:
-      " This React and TypeScript project is designed for managing products, featuring functionality to add items with attributes like price, category, image, colors, and description. It uses Headless UI for accessible components, TailwindCSS for modern styling, and UUID for generating unique product identifiers.",
-    skills: "React - TaillwindCSS - React HOOKS - TypeScript - Headlessui",
+      " Developed a Mobile App for Hotel Browsing and Reservations: Built using React Native and Firebase, this mobile application provides a seamless experience for users to browse hotels, make reservations, and manage bookings in real-time. The app features a user-friendly interface with efficient hotel search filters, secure reservation management, and real-time booking updates. Firebase ensures robust back-end support with real-time data synchronization and secure user authentication.",
+    skills: " React Native - Firebase",
     demo: "https://mohammedrady59.github.io/CRUD-SYSTEM-TS/",
     repo: "https://github.com/Kalindusu/CeylonTours-E-booking",
   },
   {
-    name: "Portfolio Website",
+    name: "Library Management System (Ongoing)",
     details:
-      " Developed the company website front-end and currently maintaining it.",
-    skills: "ReactJs - TaillwindCSS - React Slick - AOS Library",
+      " Developing a Library Management System: Utilizing React.js, Spring Boot, MySQL, and Spring Security, this comprehensive system provides secure book management and user authentication features. The project ensures seamless interaction between the frontend and backend for efficient library operations.",
+    skills: " Spring Boot - MySQL - Spring Security - ReactJS",
     demo: "https://foanztopkw.com/",
-    repo: "https://github.com/Kalindusu/Kalindu_Portfolio_new",
+    repo: "https://github.com/Kalindusu/LibrarySystem.git",
   },
-  // {
-  //   name: "Palestine",
-  //   details:
-  //     "We need to support our brothers in Palestine. By introducing their case against the Zionist occupati...",
-  //   skills: "HTML - CSS - Vanilla JS ",
-  //   demo: "https://mohammedrady59.github.io/Palestine/",
-  //   repo: "https://github.com/MohammedRady59/Palestine",
-  // },
 ];
