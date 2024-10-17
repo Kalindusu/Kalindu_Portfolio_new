@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import next from "../assets/projects/mock1.png";
+import next from "../assets/projects/mock1.jpg";
 import next1 from "../assets/projects/mock2.jpg";
 import next2 from "../assets/projects/mock3.jpg";
 import next3 from "../assets/projects/mock4.jpg";
