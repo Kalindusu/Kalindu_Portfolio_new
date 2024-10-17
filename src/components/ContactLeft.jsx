@@ -11,10 +11,10 @@ const ContactLeft = () => {
             />
             <div className="flex flex-col gap-4">
                 <h3 className="text-3xl font-bold text-white">Kalindu Sudaraka</h3>
-                <p className="text-lg font-normal text-gray-400">
+                <p className="text-lg font-normal text-gray-200">
                     Full Stack Developer / Blogger
                 </p>
-                <p className="text-base text-gray-400 flex items-center gap-2">
+                <p className="text-base text-gray-200 flex items-center gap-2">
                     Mobile No: <span className="text-lightText">+94 70 401 2820</span>
                 </p>
             </div>
