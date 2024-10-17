@@ -11,16 +11,16 @@ export const project = [
   {
     name: "PitCrew Mobile Application Group Project",
     details:
-      " Is a full e-commerce web application using React.js.This project’s state management was achieved using only ContextAPI to leverage its potentials to the max. A real-world payment gateway (Stripe) was implemented in this project.",
+      " PitCrew is a user-friendly mobile app designed to simplify the way vehicle owners maintain their vehicles and connect with mechanics. The app provides seamless access to essential workshop information, spare parts, and personalized maintenance reminders—all in one place. With features like real-time location tracking, PitCrew helps users find the nearest workshops, making it easier to get help when needed.",
     skills:
-      "ReactJs - TaillwindCSS- AOS Library - Axios - React Query - React Slick",
+      "React Native - Firebase - Google Maps API - NodeJS and Express - Stripe",
     demo: "https://fresh-cart-seven-gilt.vercel.app/",
     repo: "https://github.com/ChethanaWijesinghe10/PitCrew",
   },
   {
     name: "FoodOnWay E-commerce Website",
     details:
-      "Programming Ongoing charity for all dead Muslims. The site is about the Noble Qur’an, interpretation of the Qur’an, hadiths, morning and evening remembrances, and praises.",
+      "FoodOnWay is a feature-rich, dynamic e-commerce website designed to make food ordering and management easier for both customers and admins. With a user-friendly interface and powerful admin dashboard, FoodOnWay offers a smooth experience for browsing menus, managing orders, and handling reservations.",
     skills:
       "React Js - Typescript - ReactQuery- TaillwindCSS - Axios - headlessui-React Hot Toast ",
     demo: "https://quran-kareem-eta.vercel.app/",
