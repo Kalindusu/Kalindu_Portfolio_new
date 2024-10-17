@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import next from "../assets/projects/mock1.jpg";
+import next from "../assets/projects/mock1.png";
 import next1 from "../assets/projects/mock2.jpg";
 import next2 from "../assets/projects/mock3.jpg";
 import next3 from "../assets/projects/mock4.jpg";
@@ -96,17 +96,18 @@ const Projects = () => {
                         </a> */}
                       </div>
                       <img
-                        src={images[idx]}
-                        alt={el.name}
-                        loading="lazy"
-                        className="block w-full rounded-md"
+                       src={images[idx]}
+                       alt={el.name}
+                       loading="lazy"
+                      className="block w-[500px] h-[200px] rounded-md"
                       />
+
                     </div>
                     <div className="h-32 overflow-auto">
                       <p className="text-sm leading-6">{el.details}</p>
                     </div>
                     <div>
-                      <p className="text-sm">{el.skills}</p>
+                      <p className="text-sm"><span className="text-customBlue">Tech Stack:</span> {el.skills}</p>
                     </div>
                   </motion.div>
                 ))}
