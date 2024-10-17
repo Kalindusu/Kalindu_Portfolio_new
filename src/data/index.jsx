@@ -4,7 +4,7 @@ export const project = [
     details:
       " Developed  a comprehensive hotel booking system using Spring Boot, MySQL, and ReactJS. The system is designed to provide a secure, scalable backend with robust authentication and data management. The user-friendly frontend offers a seamless booking experience for customers, including room selection, availability checking, and payment processing. The system also features an intuitive admin dashboard for managing reservations, customer data, room availability, and analytics, empowering hotel administrators to make informed decisions and optimize operations. Integration with third-party APIs for payments and real-time notifications ensures a modern, professional experience.",
     skills:
-      "Spring Boot - Spring Security - MySQL - JWT - Hibernate - ReactJS - Axios - TailwindCSS - React Router - AWS S3",  
+      " Spring Boot - Spring Security - MySQL - JWT - Hibernate - ReactJS - Axios - TailwindCSS - React Router - AWS S3",  
     demo: "****Coming Soon****",
     repo: "https://github.com/Kalindusu/Hotel_Management_System",
   },
@@ -13,25 +13,25 @@ export const project = [
     details:
       " PitCrew is a user-friendly mobile app designed to simplify the way vehicle owners maintain their vehicles and connect with mechanics. The app provides seamless access to essential workshop information, spare parts, and personalized maintenance reminders—all in one place. With features like real-time location tracking, PitCrew helps users find the nearest workshops, making it easier to get help when needed.",
     skills:
-      "React Native - Firebase - Google Maps API - NodeJS and Express - Stripe",
+      " React Native - Firebase - Google Maps API - NodeJS and Express - Stripe",
     demo: "https://fresh-cart-seven-gilt.vercel.app/",
     repo: "https://github.com/ChethanaWijesinghe10/PitCrew",
   },
   {
     name: "FoodOnWay E-commerce Website",
     details:
-      "FoodOnWay is a feature-rich, dynamic e-commerce website designed to make food ordering and management easier for both customers and admins. With a user-friendly interface and powerful admin dashboard, FoodOnWay offers a smooth experience for browsing menus, managing orders, and handling reservations.",
+      " FoodOnWay is a feature-rich, dynamic e-commerce website designed to make food ordering and management easier for both customers and admins. With a user-friendly interface and powerful admin dashboard, FoodOnWay offers a smooth experience for browsing menus, managing orders, and handling reservations.",
     skills:
-      "React Js - Typescript - ReactQuery- TaillwindCSS - Axios - headlessui-React Hot Toast ",
+      " ReactJS - Redux - NodeJS and Express - MongoDB - Stripe",
     demo: "https://quran-kareem-eta.vercel.app/",
     repo: "https://github.com/Kalindusu/Foodie-Fusion",
   },
   {
     name: "Chatbot",
     details:
-      " I've developed a lightweight code editor similar to Visual Studio Code using React,TypeScript, Tailwind CSS, and Redux. The project features local data management withcustom page data and employs UUID for unique ID generation, ensuring robust andorganized state handling..",
+      " The Gemini LLM Chat App is an advanced messaging platform built to deliver seamless, intelligent conversations powered by the Gemini Language Learning Model (LLM). Developed using React Native, the app offers a highly responsive user interface, ensuring smooth communication on both mobile and tablet devices.",
     skills:
-      "ReactJs - Typescript - Reduxjs/toolkit- TaillwindCSS- UUID - React-resizable-panels - React-syntax-highlighter",
+      " React Native - Gemini API ",
     demo: "https://visual-studio-code-clone-kappa.vercel.app/",
     repo: "https://github.com/Kalindusu/ChatBot",
   },
