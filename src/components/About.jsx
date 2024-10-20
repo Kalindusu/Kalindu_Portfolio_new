@@ -26,7 +26,7 @@ const About = () => {
             </div>
           </motion.div>
         </div>
-        <div className=" pb-8  ">
+        <div className=" pb-8    ">
           <Model />
           <div className="items-center gap-5 flex text-3xl text-white mt-28 container font-nav "></div>
         </div>

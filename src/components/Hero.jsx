@@ -8,7 +8,7 @@ import Typed from "typed.js";
 const Hero = () => {
   useEffect(() => {
     const options = {
-      strings: ["FULL STACK DEVELOPER", "Blogger"],
+      strings: ["Aspiring Full-Stack Engineer ", "Tech Blogger",  "Exploring Innovative Solutions in Software Development"],
       typeSpeed: 100,
       backSpeed: 80,
       backDelay: 2000,

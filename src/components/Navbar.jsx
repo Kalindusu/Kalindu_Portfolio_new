@@ -12,7 +12,7 @@ const Navbar = () => {
       </div>
       <div className="ml-auto flex items-center gap-8 text-white text-3xl">
         <a
-          href="www.linkedin.com/in/kalindu-sudaraka-3b24482a3"
+          href="https://www.linkedin.com/in/kalindu-sudaraka-3b24482a3/"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:cursor-pointer hover:text-gray-200"

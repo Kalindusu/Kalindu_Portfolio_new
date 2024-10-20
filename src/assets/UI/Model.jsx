@@ -3,9 +3,9 @@ import { SquareChevronDown } from "lucide-react";
 
 function Model() {
   return (
-    <div className="container md:w-3/5 mx-auto font-nav">
+    <div className="container md:w-3/5 mx-auto font-nav  ">
       <TabGroup className="lg:flex space-y-5 lg:space-y-0 text-[#fff] gap-20">
-        <TabList className="flex flex-col gap-4">
+        <TabList className="flex flex-col gap-10">
           <Tab className=" data-[selected]:bg-[#83dbff40]  data-[selected]:outline-none  p-3  border rounded-md border-customBlue">
             Education
           </Tab>
