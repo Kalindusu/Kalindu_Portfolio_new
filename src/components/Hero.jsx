@@ -52,7 +52,7 @@ const Hero = () => {
                 {HERO_CONTENT}
               </motion.p>
               <a
-        href="https://drive.google.com/uc?export=download&id=1DgM7PKT7NuDyaWsXUYqTFPxO-7RskW4p"
+        href="https://drive.google.com/uc?export=download&id=1KSn7THwDIEcUAGYbJ0ruJGKTusBHr0EF"
          download
           className="w-fit"
         >
