@@ -75,16 +75,16 @@ const Contact = () => {
     };
 
     return (
-        <section id="contact" className="w-full py-20 border-b-[1px] border-b-black">
+        <section id="contact" className="w-full py-8 border-b-[1px] border-b-black">
             <div className="flex justify-center items-center text-center"></div>
             <div className="border-b border-neutral-900 pb-20 flex flex-col items-center">
                 <motion.h2
                     whileInView={{ opacity: 1, y: 0 }}
                     initial={{ opacity: 0, y: 100 }}
                     transition={{ duration: 1.5 }}
-                    className="my-10 text-center text-4xl font-bold"
+                    className="my-4 text-center text-4xl font-bold"
                 >
-                    Contact
+                    Contact <span className="text-neutral-500">Me</span>
                 </motion.h2>
             </div>
 
