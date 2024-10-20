@@ -1,11 +1,11 @@
 import React from "react";
 import { motion } from "framer-motion";
-import next from "../assets/projects/mock1.jpg";
-import next1 from "../assets/projects/mock2.jpg";
-import next2 from "../assets/projects/mock3.jpg";
-import next3 from "../assets/projects/mock4.jpg";
-import next4 from "../assets/projects/mock5.jpg";
-import next5 from "../assets/projects/mock6.jpg";
+import next from "../assets/projects/Hotel.png";
+import next1 from "../assets/projects/PitCrew.png";
+import next2 from "../assets/projects/Food-Delivery APP.png";
+import next3 from "../assets/projects/Chat Bot.png";
+import next4 from "../assets/projects/Booking Mob.png";
+import next5 from "../assets/projects/Library.jpg";
 import { Github, Link, SquareArrowOutUpRight } from "lucide-react";
 import { project } from "../data/index";
 
