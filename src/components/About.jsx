@@ -17,8 +17,8 @@ const About = () => {
                 initial={{ opacity: 0, x: 100 }}
                 transition={{ duration: 0.5 }}
             >
-            <div> 
-                <p className="mb-4 ">
+            <div className='mt-0.1' > 
+                <p className="mb-4 text-justify  ">
                  {ABOUT_TEXT}
                 </p>
             </div>
