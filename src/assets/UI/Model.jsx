@@ -19,7 +19,7 @@ function Model() {
             Soft Skills
           </Tab>
         </TabList>
-        <TabPanels>
+        <TabPanels className="">
         <TabPanel>
             {" "}
             <div data-aos="fade-right">
