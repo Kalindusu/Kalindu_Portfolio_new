@@ -20,6 +20,25 @@ function Model() {
           </Tab>
         </TabList>
         <TabPanels>
+        <TabPanel>
+            {" "}
+            <div data-aos="fade-right">
+              <h3 className="text-2xl pb-4">Experiences</h3>
+              <div className="border-l px-2  ">
+                <p className="bg-custom-gradient">Dec 2022 - Jul-2023</p>
+                <p className="flex gap-2 py-2">
+                  <SquareChevronDown className="text-red-600" />
+                  People's Bank Walasmulla
+                </p>
+                <div className="px-8">
+                  <p className="">Trainee Bank Assistant</p>
+                  <p className="py-2 text-[#9ca3af] font-bold">
+                  As a bank trainer at People's Bank, Walasmulla, I honed my soft skills while delivering effective training sessions and enhancing employee performance. This experience allowed me to develop strong communication, leadership, and problem-solving abilities, which have been invaluable in my professional growth.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </TabPanel>
           <TabPanel>
             <div data-aos="fade-right">
               <h3 className="text-2xl pb-4">Education</h3>
@@ -118,25 +137,6 @@ function Model() {
 
                   </a>
                 </p>
-              </div>
-            </div>
-          </TabPanel>
-          <TabPanel>
-            {" "}
-            <div data-aos="fade-right">
-              <h3 className="text-2xl pb-4">Experiences</h3>
-              <div className="border-l px-2  ">
-                <p className="bg-custom-gradient">Dec 2022 - Jul-2023</p>
-                <p className="flex gap-2 py-2">
-                  <SquareChevronDown className="text-red-600" />
-                  People's Bank Walasmulla
-                </p>
-                <div className="px-8">
-                  <p className="">Trainee Bank Assistant</p>
-                  <p className="py-2 text-[#9ca3af] font-bold">
-                  As a bank trainer at People's Bank, Walasmulla, I honed my soft skills while delivering effective training sessions and enhancing employee performance. This experience allowed me to develop strong communication, leadership, and problem-solving abilities, which have been invaluable in my professional growth.
-                  </p>
-                </div>
               </div>
             </div>
           </TabPanel>
