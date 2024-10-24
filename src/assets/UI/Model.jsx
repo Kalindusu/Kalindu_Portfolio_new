@@ -7,13 +7,13 @@ function Model() {
       <TabGroup className="lg:flex space-y-5 lg:space-y-0 text-[#fff] gap-20">
         <TabList className="flex flex-col gap-10">
           <Tab className=" data-[selected]:bg-[#83dbff40]  data-[selected]:outline-none  p-3  border rounded-md border-customBlue">
-            Education
+          Experiences
           </Tab>
           <Tab className=" data-[selected]:bg-[#83dbff40] data-[selected]:outline-none   p-3 border rounded-md border-customBlue">
-            Certification
+          Education 
           </Tab>
           <Tab className=" data-[selected]:bg-[#83dbff40]  data-[selected]:outline-none p-3 border rounded-md border-customBlue">
-            Experiences
+          Certification
           </Tab>
           <Tab className=" data-[selected]:bg-[#83dbff40]  data-[selected]:outline-none p-3 border rounded-md border-customBlue">
             Soft Skills
